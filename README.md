@@ -47,4 +47,4 @@ To set up backend codebase for development follow these steps:
 ## Screenshots
 
 
-![App Screenshot](https://github.com/jojijose101/Anti-sosh/blob/main/screenshot/Screenshot%20from%202024-04-03%2019-36-39.png)
+![App Screenshot](https://github.com/jojijose101/Web-scrapping/blob/main/screenshot/webscrap.png)
